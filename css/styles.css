@@ -81,7 +81,7 @@ body {
     margin-bottom: 5px;
 }
 
-.prev__title:hover {
+.prev__title:hover, .prev__title:focus {
     color: var(--color-background);
     cursor: pointer;
 }
